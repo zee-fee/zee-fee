@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Zeenat
-- 👀 I’m interested in Deep Learning for Computer Vision
-- 🌱 I’m currently learning image-to-graph generation with transformers
+- 🪴 I'm learning full-stack development
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me zeenat1497@gmail.com
 
